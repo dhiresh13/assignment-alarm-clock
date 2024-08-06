@@ -9,10 +9,14 @@ A simple CLI application for setting an alarm using Node.js.
 ## Setup
 
 1. Clone the repository:
+
+   ```sh
    git clone https://github.com/dhiresh13/assignment-alarm-clock.git
    cd alarm-clock-cli
 
-2. Command to run the Appplication
-   node index.js .
+
+2. Commands
+   ```sh
+   node index.js
    or
-   ./index.js .
+   ./index.js
